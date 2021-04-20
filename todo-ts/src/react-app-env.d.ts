@@ -6,7 +6,3 @@ declare module 'react/jsx-runtime' {
 declare module 'react' {
   export default any;
 }
-
-declare module 'react-router-dom' {
-  export default any;
-}
